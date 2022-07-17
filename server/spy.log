@@ -1,0 +1,8 @@
+1658049007657|0|statement|connection 40|url jdbc:h2:mem:06801dcc-8fc9-4260-b4c6-d774eb8e9519|drop table if exists account CASCADE |drop table if exists account CASCADE 
+1658049007657|0|statement|connection 40|url jdbc:h2:mem:06801dcc-8fc9-4260-b4c6-d774eb8e9519|drop table if exists company_info CASCADE |drop table if exists company_info CASCADE 
+1658049007658|0|statement|connection 40|url jdbc:h2:mem:06801dcc-8fc9-4260-b4c6-d774eb8e9519|drop table if exists district CASCADE |drop table if exists district CASCADE 
+1658049007658|0|statement|connection 40|url jdbc:h2:mem:06801dcc-8fc9-4260-b4c6-d774eb8e9519|drop table if exists sector CASCADE |drop table if exists sector CASCADE 
+1658049215857|0|statement|connection 40|url jdbc:h2:mem:9411f815-e07c-4552-94b4-8dc3433dc335|drop table if exists account CASCADE |drop table if exists account CASCADE 
+1658049215859|0|statement|connection 40|url jdbc:h2:mem:9411f815-e07c-4552-94b4-8dc3433dc335|drop table if exists company_info CASCADE |drop table if exists company_info CASCADE 
+1658049215859|0|statement|connection 40|url jdbc:h2:mem:9411f815-e07c-4552-94b4-8dc3433dc335|drop table if exists district CASCADE |drop table if exists district CASCADE 
+1658049215859|0|statement|connection 40|url jdbc:h2:mem:9411f815-e07c-4552-94b4-8dc3433dc335|drop table if exists sector CASCADE |drop table if exists sector CASCADE 
